@@ -131,6 +131,6 @@ z=np.abs(stats.zscore(df))
 z
 ```
 ![image](https://github.com/23006823/exno1/assets/138971409/0e3146d8-93c6-4e93-829a-3f1c281d523f)
-```
+``
 # Result
  Thus the given program executed successfully
