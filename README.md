@@ -80,6 +80,8 @@ age=[1,3,28,27,25,92,30,39,40,50,26,24,29,94]
 af=pd.DataFrame(age)
 af
 ```
+![image](https://github.com/23006823/exno1/assets/138971409/3f1dfb4c-4dad-42da-9945-615b3a9fd414)
+```
 sns.boxplot(data=af)
 ```
 ![image](https://github.com/23006823/exno1/assets/138971409/2dd5b6dc-fe36-4dcf-9e42-aefbc7d417b2)
